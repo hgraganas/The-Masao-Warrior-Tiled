@@ -7,6 +7,8 @@
   <terrain name="Soil" tile="1154"/>
   <terrain name="Pond" tile="339"/>
   <terrain name="Concrete-Path" tile="193"/>
+  <terrain name="Grass-Path-Cemetery" tile="0"/>
+  <terrain name="Soil-Path-Cemetery" tile="0"/>
  </terraintypes>
  <tile id="144" terrain=",,,4"/>
  <tile id="145" terrain=",,4,4"/>
@@ -34,22 +36,48 @@
  <tile id="435" terrain="3,3,,3"/>
  <tile id="482" terrain="3,,3,3"/>
  <tile id="483" terrain=",3,3,3"/>
+ <tile id="990" terrain=",,,6"/>
+ <tile id="991" terrain=",,6,6"/>
+ <tile id="992" terrain=",,6,"/>
+ <tile id="993" terrain="6,6,6,"/>
+ <tile id="994" terrain="6,6,,6"/>
  <tile id="1008" terrain=",,,2"/>
  <tile id="1009" terrain=",,2,2"/>
  <tile id="1010" terrain=",,2,"/>
+ <tile id="1038" terrain=",6,,6"/>
+ <tile id="1039" terrain="6,6,6,6"/>
+ <tile id="1040" terrain="6,,6,"/>
+ <tile id="1041" terrain="6,,6,6"/>
+ <tile id="1042" terrain=",6,6,6"/>
  <tile id="1056" terrain=",2,,2"/>
  <tile id="1057" terrain="2,2,2,2"/>
  <tile id="1058" terrain="2,,2,"/>
+ <tile id="1086" terrain=",6,,"/>
+ <tile id="1087" terrain="6,6,,"/>
+ <tile id="1088" terrain="6,,,"/>
+ <tile id="1089" terrain="5,5,5,"/>
+ <tile id="1090" terrain="5,5,,5"/>
  <tile id="1104" terrain=",2,,"/>
  <tile id="1105" terrain="2,2,,"/>
  <tile id="1106" terrain="2,,,"/>
+ <tile id="1134" terrain=",,,5"/>
+ <tile id="1135" terrain=",,5,5"/>
+ <tile id="1136" terrain=",,5,"/>
+ <tile id="1137" terrain="5,,5,5"/>
+ <tile id="1138" terrain=",5,5,5"/>
  <tile id="1152" terrain="2,2,2,"/>
  <tile id="1153" terrain="2,2,,2"/>
+ <tile id="1182" terrain=",5,,5"/>
+ <tile id="1183" terrain="5,5,5,5"/>
+ <tile id="1184" terrain="5,,5,"/>
  <tile id="1200" terrain="2,,2,2"/>
  <tile id="1201" terrain=",2,2,2"/>
  <tile id="1202" terrain=",,,1"/>
  <tile id="1203" terrain=",,1,1"/>
  <tile id="1204" terrain=",,1,"/>
+ <tile id="1230" terrain=",5,,"/>
+ <tile id="1231" terrain="5,5,,"/>
+ <tile id="1232" terrain="5,,,"/>
  <tile id="1250" terrain=",1,,1"/>
  <tile id="1251" terrain="1,1,1,1"/>
  <tile id="1252" terrain="1,,1,"/>
