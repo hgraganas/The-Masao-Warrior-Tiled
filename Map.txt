@@ -1,3 +1,4 @@
 DatuSilongan - [950, 407] - [999, 437]
 Agao-DatuSilongan - [950, 438] - [999, 458]
-Agao
+Agao - [949, 458] - [999, 494]
+LeftAgao - [893, 458] - [948, 494]
