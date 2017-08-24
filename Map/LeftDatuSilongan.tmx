@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.0" tiledversion="1.0.2" orientation="orthogonal" renderorder="left-down" width="56" height="55" tilewidth="16" tileheight="16" nextobjectid="1">
+ <properties>
+  <property name="unity:sortingLayerName" value="AbovePlayer"/>
+ </properties>
  <tileset firstgid="1" source="../Tileset/Overworld.tsx"/>
  <tileset firstgid="1729" source="../Tileset/Building.tsx"/>
  <layer name="Base" width="56" height="55">
