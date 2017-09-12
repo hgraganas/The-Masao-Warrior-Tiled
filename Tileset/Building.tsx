@@ -3935,7 +3935,6 @@
  </tile>
  <tile id="1960">
   <objectgroup draworder="index">
-   <object id="1" x="0" y="0" height="1"/>
    <object id="2" x="0" y="0" width="16" height="11"/>
   </objectgroup>
  </tile>
