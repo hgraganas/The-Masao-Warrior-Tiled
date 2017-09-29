@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.0" tiledversion="1.0.2" orientation="orthogonal" renderorder="left-down" width="25" height="20" tilewidth="16" tileheight="16" nextobjectid="1">
+<map version="1.0.0" orientation="orthogonal" renderorder="left-down" width="25" height="20" tilewidth="16" tileheight="16" nextobjectid="1">
  <tileset firstgid="1" source="../Tileset/Overworld.tsx"/>
  <tileset firstgid="1729" source="../Tileset/Building.tsx"/>
  <layer name="Base" width="25" height="20">
