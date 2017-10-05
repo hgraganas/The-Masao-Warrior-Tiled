@@ -9,6 +9,8 @@
   <terrain name="Concrete-Path" tile="193"/>
   <terrain name="Grass-Path-Cemetery" tile="0"/>
   <terrain name="Soil-Path-Cemetery" tile="0"/>
+  <terrain name="sand" tile="0"/>
+  <terrain name="Sandwater" tile="0"/>
  </terraintypes>
  <tile id="6">
   <objectgroup draworder="index">
@@ -438,6 +440,11 @@
    <object id="1" x="0" y="0" width="16" height="8"/>
   </objectgroup>
  </tile>
+ <tile id="425" terrain="8,8,8,"/>
+ <tile id="426" terrain="8,8,,8"/>
+ <tile id="427" terrain=",,,8"/>
+ <tile id="428" terrain=",,8,8"/>
+ <tile id="429" terrain=",,8,"/>
  <tile id="434" terrain="3,3,3,">
   <objectgroup draworder="index">
    <object id="1" x="0" y="0" width="6" height="16"/>
@@ -475,6 +482,10 @@
    <object id="1" x="2" y="0" width="12" height="10"/>
   </objectgroup>
  </tile>
+ <tile id="473" terrain="8,,8,8"/>
+ <tile id="474" terrain=",8,8,8"/>
+ <tile id="475" terrain=",8,,8"/>
+ <tile id="477" terrain="8,,8,"/>
  <tile id="482" terrain="3,,3,3">
   <objectgroup draworder="index">
    <object id="1" x="0" y="0" width="6" height="16"/>
@@ -516,6 +527,9 @@
  <tile id="517">
   <objectgroup draworder="index"/>
  </tile>
+ <tile id="523" terrain=",8,,"/>
+ <tile id="524" terrain="8,8,,"/>
+ <tile id="525" terrain="8,,,"/>
  <tile id="532">
   <objectgroup draworder="index">
    <object id="1" x="0" y="0" width="4" height="16"/>
@@ -1100,6 +1114,9 @@
    <object id="1" x="12" y="0" width="4" height="16"/>
   </objectgroup>
  </tile>
+ <tile id="1052" terrain=",,,7"/>
+ <tile id="1053" terrain=",,7,7"/>
+ <tile id="1054" terrain=",,7,"/>
  <tile id="1056" terrain=",2,,2"/>
  <tile id="1057" terrain="2,2,2,2"/>
  <tile id="1058" terrain="2,,2,"/>
@@ -1135,6 +1152,9 @@
    <object id="1" x="12" y="0" width="4" height="16"/>
   </objectgroup>
  </tile>
+ <tile id="1100" terrain=",7,,7"/>
+ <tile id="1101" terrain="7,7,7,7"/>
+ <tile id="1102" terrain="7,,7,"/>
  <tile id="1104" terrain=",2,,"/>
  <tile id="1105" terrain="2,2,,"/>
  <tile id="1106" terrain="2,,,"/>
@@ -1195,6 +1215,9 @@
    <object id="1" x="0" y="0" width="16" height="16"/>
   </objectgroup>
  </tile>
+ <tile id="1148" terrain=",7,,"/>
+ <tile id="1149" terrain="7,7,,"/>
+ <tile id="1150" terrain="7,,,"/>
  <tile id="1152" terrain="2,2,2,"/>
  <tile id="1153" terrain="2,2,,2"/>
  <tile id="1170">
@@ -1320,6 +1343,8 @@
    <object id="1" x="0" y="0" width="16" height="6"/>
   </objectgroup>
  </tile>
+ <tile id="1294" terrain="7,7,7,"/>
+ <tile id="1295" terrain="7,7,,7"/>
  <tile id="1298" terrain=",1,,"/>
  <tile id="1299" terrain="1,1,,"/>
  <tile id="1300" terrain="1,,,"/>
@@ -1358,6 +1383,8 @@
    <object id="1" x="3" y="4" width="9" height="8"/>
   </objectgroup>
  </tile>
+ <tile id="1342" terrain="7,,7,7"/>
+ <tile id="1343" terrain=",7,7,7"/>
  <tile id="1344" terrain="1,1,1,"/>
  <tile id="1345" terrain="1,1,,1"/>
  <tile id="1346" terrain="0,0,0,"/>
