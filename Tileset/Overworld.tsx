@@ -938,7 +938,7 @@
  </tile>
  <tile id="902">
   <objectgroup draworder="index">
-   <object id="1" x="8" y="11" width="8" height="5"/>
+   <object id="1" x="12" y="11" width="4" height="5"/>
   </objectgroup>
  </tile>
  <tile id="903">
@@ -953,13 +953,11 @@
  </tile>
  <tile id="905">
   <objectgroup draworder="index">
-   <object id="1" x="0" y="11" width="7" height="5"/>
+   <object id="1" x="0" y="11" width="4" height="5"/>
   </objectgroup>
  </tile>
  <tile id="907">
-  <objectgroup draworder="index">
-   <object id="1" x="13" y="12" width="3" height="4"/>
-  </objectgroup>
+  <objectgroup draworder="index"/>
  </tile>
  <tile id="908">
   <objectgroup draworder="index">
@@ -968,7 +966,7 @@
  </tile>
  <tile id="909">
   <objectgroup draworder="index">
-   <object id="1" x="0" y="12" width="16" height="4"/>
+   <object id="1" x="0" y="12" width="7" height="4"/>
   </objectgroup>
  </tile>
  <tile id="910">
@@ -1545,24 +1543,20 @@
   </objectgroup>
  </tile>
  <tile id="1502">
-  <objectgroup draworder="index">
-   <object id="1" x="2" y="12" width="14" height="4"/>
-  </objectgroup>
+  <objectgroup draworder="index"/>
  </tile>
  <tile id="1503">
   <objectgroup draworder="index">
-   <object id="1" x="0" y="12" width="16" height="4"/>
+   <object id="1" x="11" y="12" width="5" height="4"/>
   </objectgroup>
  </tile>
  <tile id="1504">
   <objectgroup draworder="index">
-   <object id="1" x="0" y="12" width="16" height="4"/>
+   <object id="1" x="0" y="12" width="4" height="4"/>
   </objectgroup>
  </tile>
  <tile id="1505">
-  <objectgroup draworder="index">
-   <object id="1" x="0" y="12" width="7" height="4"/>
-  </objectgroup>
+  <objectgroup draworder="index"/>
  </tile>
  <tile id="1521">
   <objectgroup draworder="index">
@@ -1721,7 +1715,7 @@
  </tile>
  <tile id="1632">
   <objectgroup draworder="index">
-   <object id="1" x="5" y="12" width="11" height="4"/>
+   <object id="1" x="13" y="11" width="3" height="5"/>
   </objectgroup>
  </tile>
  <tile id="1633">
@@ -1736,12 +1730,12 @@
  </tile>
  <tile id="1635">
   <objectgroup draworder="index">
-   <object id="1" x="0" y="12" width="12" height="4"/>
+   <object id="1" x="0" y="11" width="3" height="5"/>
   </objectgroup>
  </tile>
  <tile id="1636">
   <objectgroup draworder="index">
-   <object id="2" x="0" y="12" width="16" height="4"/>
+   <object id="1" x="15" y="12" width="1" height="4"/>
   </objectgroup>
  </tile>
  <tile id="1637">
@@ -1751,7 +1745,7 @@
  </tile>
  <tile id="1638">
   <objectgroup draworder="index">
-   <object id="1" x="0" y="12" width="16" height="4"/>
+   <object id="1" x="0" y="12" width="8" height="4"/>
   </objectgroup>
  </tile>
  <tile id="1639">
